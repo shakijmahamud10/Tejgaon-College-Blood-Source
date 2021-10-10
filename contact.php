@@ -97,7 +97,7 @@
 
         <hr>
 
-         <!-- Changing copyright is not allowed -->
+         <!-- Changing Copyright is not allowed -->
          
 		<?php include"footer.php"; ?>
 
